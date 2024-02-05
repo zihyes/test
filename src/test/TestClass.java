@@ -6,6 +6,7 @@ public class TestClass {
 		// TODO Auto-generated method stub
 		안녕하세요
 		집에서 작업하고 있다
+		학원에서 작업
 	}
 
 }
