@@ -7,6 +7,7 @@ public class TestClass {
 		안녕하세요
 		집에서 작업하고 있다
 		또 집에서 작업
+		학원에서 작업
 	}
 
 }
